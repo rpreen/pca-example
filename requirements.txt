@@ -1,0 +1,4 @@
+sacroml
+diffprivlib
+notebook
+scikit-learn==1.8

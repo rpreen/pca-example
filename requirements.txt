@@ -1,4 +1,5 @@
 sacroml
 diffprivlib
 notebook
-scikit-learn==1.8
+opendp[numpy]
+scikit-learn==1.8  # for diffprivlib

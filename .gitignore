@@ -220,3 +220,4 @@ __marimo__/
 *.csv
 *.png
 sacroml_pca/
+lira_pca/

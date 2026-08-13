@@ -40,6 +40,10 @@ lint.select = [
   "YTT",  # flake8-2020
 ]
 
+lint.ignore = [
+    "S301",     # allow pickle
+    "PLR0913",  # allow many arguments in functions
+]
 
 [tool.ruff.lint.pep8-naming]
 extend-ignore-names = [

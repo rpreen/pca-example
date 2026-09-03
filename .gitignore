@@ -221,3 +221,4 @@ __marimo__/
 *.png
 sacroml_pca/
 lira_pca/
+lira_dp_pca/

@@ -1,4 +1,4 @@
-sacroml
+sacroml==2.0.0
 diffprivlib
 notebook
 opendp[numpy]
